@@ -56,3 +56,14 @@ uvicorn main:app --reload
 
 2. Buka Swagger UI di browser:
 http://127.0.0.1:8000/docs
+
+## Input data
+1. Postman
+2. Swegger
+   
+## Buka UI menggunakan Live Server
+Install Live Server di VS Code (jika belum ada):
+Buka VS Code → Extensions → cari Live Server → Install
+Buka folder project di VS Code
+Klik kanan index.html → Open with Live Server
+Browser akan terbuka otomatis, misal di http://127.0.0.1:5500
