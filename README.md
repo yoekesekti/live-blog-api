@@ -8,7 +8,7 @@ Project ini membuat ulang Live Blog berupa pesan anonimus
 ## Fitur
 - **Register User:** Membuat akun baru.
 - **Login:** Masuk ke sistem untuk user terdaftar.
-- **Post Artikel:** Membuat, melihat, mengupdate, dan menghapus post.
+- **Post Artikel:**
 - **Swagger UI:** Dokumentasi API interaktif.
 
 
@@ -17,11 +17,13 @@ Project ini membuat ulang Live Blog berupa pesan anonimus
 ## Instalasi
 1. Clone repository:
 
-git clone https://github.com/username/live-blog-api.git
+git clone https://github.com/yoekesekti/live-blog-api.git
 
 
-2. Masuk folder project:
+2. Masuk folder project dan install uvicorn:
 cd live-blog-api
+venv\Scripts\activate
+pip install fastapi uvicorn
 
 
 ## Menjalankan API
@@ -31,7 +33,7 @@ uvicorn main:app --reload
 2. Buka Swagger UI di browser:
 http://127.0.0.1:8000/docs
 
-## Input data
+## Input data menggunakan: 
 1. Postman
 2. Swegger
    
