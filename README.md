@@ -11,27 +11,6 @@ Project ini membuat ulang Live Blog berupa pesan anonimus
 - **Post Artikel:** Membuat, melihat, mengupdate, dan menghapus post.
 - **Swagger UI:** Dokumentasi API interaktif.
 
----
-
-## Teknologi
-- Python 3.x
-- FastAPI
-- Uvicorn
-- SQLAlchemy / Tortoise ORM
-- SQLite / PostgreSQL
-- Pydantic
-
----
-
-## Struktur Folder
-live-blog-api/
-│
-├─ main.py # File utama FastAPI
-├─ models.py # Definisi model database
-├─ routes.py # Endpoint API
-├─ requirements.txt
-└─ README.md
-
 
 ---
 
@@ -43,9 +22,6 @@ git clone https://github.com/username/live-blog-api.git
 
 2. Masuk folder project:
 cd live-blog-api
-
-3. Install dependencies:
-pip install -r requirements.txt
 
 
 ## Menjalankan API
