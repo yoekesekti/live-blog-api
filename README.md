@@ -1,9 +1,7 @@
 # Live Blog API
 
 ## Deskripsi
-Project ini membuat ulang Live Blog menyerupai referensi API [IP/API URL].  
-Dikembangkan menggunakan **Python FastAPI** dan **SQLite/PostgreSQL** sebagai database.  
-Project ini digunakan untuk tugas kuliah.
+Project ini membuat ulang Live Blog berupa pesan anonimus
 
 ---
 
