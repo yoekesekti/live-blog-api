@@ -62,8 +62,8 @@ http://127.0.0.1:8000/docs
 2. Swegger
    
 ## Buka UI menggunakan Live Server
-Install Live Server di VS Code (jika belum ada):
-Buka VS Code → Extensions → cari Live Server → Install
-Buka folder project di VS Code
-Klik kanan index.html → Open with Live Server
-Browser akan terbuka otomatis, misal di http://127.0.0.1:5500
+1. Install Live Server di VS Code (jika belum ada):
+2. Buka VS Code → Extensions → cari Live Server → Install
+3. Buka folder project di VS Code
+4. Klik kanan index.html → Open with Live Server
+5. Browser akan terbuka otomatis, misal di http://127.0.0.1:5500
